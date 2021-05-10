@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Peratus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Price Value</string>
+    <string name="getStarted">Wow..so empty</string>
+    <string name="pasteText">Paste price automatically</string>
+    <string name="sliderLabel">Adjust step size</string>
+</resources>
